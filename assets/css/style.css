@@ -29,7 +29,9 @@ body {
 }
 
 .btn {
-    background-color: #c62d52;
+    background-color:gainsboro;
+    color: #303030;
+   
 }
 
 footer{
