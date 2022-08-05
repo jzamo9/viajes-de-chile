@@ -2,4 +2,14 @@
 
 body {
     font-family: 'Raleway', sans-serif;
+    color: #303030;
+}
+
+.fa-solid {
+    background-color: #6617a3;
+    color: #eeedf7;
+}
+
+#about {
+    background-color: #eeedf7;
 }
