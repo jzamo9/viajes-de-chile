@@ -5,6 +5,10 @@ body {
     color: #303030;
 }
 
+.navbar{
+    background-color: #6A0DDB;
+}
+
 .fa-solid {
     background-color: #6617a3;
     color: #eeedf7;
@@ -20,10 +24,15 @@ body {
 }
 
 #contacto{
-    background-color: #5b3787;
+    background-color:#6A0DDB;
     color: white;
 }
 
 .btn {
     background-color: #c62d52;
+}
+
+footer{
+    background-color: #eeedf7;
+    color:#303030;
 }
