@@ -9,9 +9,10 @@ body {
     background-color: #6A0DDB;
 }
 
+
 .fa-solid {
     background-color: #6617a3;
-    color: #eeedf7;
+    color:white;
 }
 
 #about {
@@ -28,11 +29,9 @@ body {
     color: white;
 }
 
-.btn {
-    background-color:gainsboro;
-    color: #303030;
+
    
-}
+
 
 footer{
     background-color: #303030;
